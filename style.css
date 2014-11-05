@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gloria+Hallelujah);
+z@import url(http://fonts.googleapis.com/css?family=Gloria+Hallelujah);
 
 *{box-sizing: border-box;}
 
@@ -19,7 +19,7 @@ canvas {
   height: 552px;
   width: 422px;
   display: block;
-  background: url(http://i.imgur.com/Y0BMP.png) top left;
+  background: url(Y0BMP.png) top left;
 }
 
 #scoreBoard {
