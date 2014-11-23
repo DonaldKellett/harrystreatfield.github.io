@@ -1,12 +1,17 @@
-HTML5 Doodle Jump Ranit Shitholes
+harrystreatfield.github.io
 =================
 
-This is a recreation of Doodle Jump that originally comes for Android and iOS devices. This game is created using awesome HTML5 API and Canvas. It does not have all of the features that the original game has (for now) like Monsters, Power ups etc.
-
-I'll be releasing a second version of this game with more features from the original game along with sounds to make this game more fun. Stay tuned for more game releases by me :D
-
-**Note**: This game is just a "recreation" of the original game in HTML5 and the graphics are made in Photoshop. I respect the original creators [Igor Pusenjak](http://www.limasky.com/) and his brother for their great work. I am a big fan of this game and I really love it so I decided to recreate that in HTML5 and trying to incorporate the same fun level the original creators did. 
-
-The name of the game and images are &copy; **copyrights** by the respective creators and [Lima Sky](http://www.limasky.com/). If you like this game and want to purchase it for your phone, then you can get it for you iPhone [here](http://itunes.apple.com/in/app/doodle-jump/id307727765?mt=8) or your Android phone [here](https://play.google.com/store/apps/details?id=com.realarcade.DOJ&hl=en).
-
-**Update**: You want to learn the process I used to create this game? Check out [this post by me](http://codetheory.in/how-i-created-my-version-of-doodle-jump-in-html5/). :)
+Hello!  This is my webpage!  Hope you enjoy it!
+If you are a coder, I will make a quick introduction to the code used in this website.
+Firstly, this website is made of three different types of code: HTML5, CSS3 and JS.  In case you don't know what these are:
+```html
+<h1><b>This is HTML5!</b></h1>
+```
+```css
+h1 {font-size: 100px; color: #93a76d;}
+/* This is CSS3! */
+```
+```js
+alert("This is Javascript!");
+```
+Of course, I did not make this webpage from scratch.  The template is from HTML5UP (http://html5up.net).
